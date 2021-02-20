@@ -1,1 +1,0 @@
-# LeNet5-Mnist
